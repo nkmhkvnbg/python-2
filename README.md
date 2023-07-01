@@ -17,6 +17,7 @@ For outstanding `python` image PRs, check [PRs with the "library/python" label o
 -	[![build status badge](https://img.shields.io/github/actions/workflow/status/docker-library/python/ci.yml?branch=master&label=GitHub%20CI)](https://github.com/docker-library/python/actions?query=workflow%3A%22GitHub+CI%22+branch%3Amaster)
 -	[![build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/update.sh/job/python.svg?label=Automated%20update.sh)](https://doi-janky.infosiftr.net/job/update.sh/job/python/)
 
+
 | Build | Status | Badges | (per-arch) |
 |:-:|:-:|:-:|:-:|
 | [![amd64 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/amd64/job/python.svg?label=amd64)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/python/) | [![arm32v5 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm32v5/job/python.svg?label=arm32v5)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v5/job/python/) | [![arm32v6 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm32v6/job/python.svg?label=arm32v6)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v6/job/python/) | [![arm32v7 build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm32v7/job/python.svg?label=arm32v7)](https://doi-janky.infosiftr.net/job/multiarch/job/arm32v7/job/python/) |
